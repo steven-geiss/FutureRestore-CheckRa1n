@@ -10,6 +10,6 @@ You need your ipsw file and your blobs
 4. Just Follow the instructions
 
 Credits: 
-tihmstar for futurerestore
-Halo-Michael for GeneratorAutoSetter
-clarkwang for passh
+1. tihmstar for futurerestore
+2. Halo-Michael for GeneratorAutoSetter
+3. clarkwang for passh
