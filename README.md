@@ -8,3 +8,8 @@ You need your ipsw file and your blobs
 2. Then chmod +x script.sh
 3. Enter ./script.sh
 4. Just Follow the instructions
+
+Credits: 
+tihmstar for futurerestore
+Halo-Michael for GeneratorAutoSetter
+clarkwang for passh
